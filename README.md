@@ -2,7 +2,7 @@
 
 A stereo headphone amplifier project designed as part of the **EN2111: Electronic Circuit Design** course at the University of Moratuwa. This circuit demonstrates practical analog design with low distortion and stable performance across the full audio frequency range.
 
-![Amplifier Schematic](./images/circ.jpg) <!-- Replace with actual image path -->
+![Amplifier Schematic](./image/circ.jpg) <!-- Replace with actual image path -->
 
 ## 🔧 Features
 
