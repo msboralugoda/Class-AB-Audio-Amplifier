@@ -5,6 +5,7 @@ A stereo headphone amplifier project designed as part of the **EN2111: Electroni
 <p align="center">
   <img src="./image/circ.jpg" alt="Device Photo" width="400"/>
 </p>
+
 ## 🔧 Features
 
 - **Volume Controller** using a simple RC voltage divider
